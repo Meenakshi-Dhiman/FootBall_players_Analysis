@@ -58,10 +58,10 @@ metrics to use in the model for prediction.
 **Dataset Link: https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-playerdataset?select=players_22.csv**
 
 **Project Team**
-Meenakshi - Project Manager
-Javier A. Melo - Project Co-ordinator
-Amal Vandananikkal Thankachan- Football expert
-Henry Jones Inbaraj - Machine Learning Expert
+Meenakshi - Project Manager /
+Javier A. Melo - Project Co-ordinator /
+Amal Vandananikkal Thankachan- Football expert /
+Henry Jones Inbaraj - Machine Learning Expert /
 Kelvin Simon - Data Analyst
 
 **Conclusion**
